@@ -1,0 +1,3 @@
+# Tipster
+
+Tip Calculator
