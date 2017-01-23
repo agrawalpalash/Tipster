@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 - The difference between `viewDidLoad` and `viewDidAppear` became apparent when I had to set the initial tip percentage in the settings menu.
-- [ ] Changing the title of the Segmented UI Control was a bit tricky initally but I was able to find the documentation and then it was easy.
+- Changing the title of the Segmented UI Control was a bit tricky initally but I was able to find the documentation and then it was easy.
 
 ## License
 
