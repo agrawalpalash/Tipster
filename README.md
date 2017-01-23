@@ -10,8 +10,8 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] Settings page to change the default tip percentage.
 
 ## Video Walkthrough 
 
@@ -23,10 +23,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-* [ ] The difference between `viewDidLoad` and `viewDidAppear` became apparent when I had to set the initial tip percentage in the settings menu.
-* [ ] Changing the title of the Segmented UI Control was a bit tricky initally but I was able to find the documentation and then it was easy.
+- The difference between `viewDidLoad` and `viewDidAppear` became apparent when I had to set the initial tip percentage in the settings menu.
+- [ ] Changing the title of the Segmented UI Control was a bit tricky initally but I was able to find the documentation and then it was easy.
 
 ## License
 
